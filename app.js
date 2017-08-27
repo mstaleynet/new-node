@@ -1,4 +1,4 @@
-var name = 'Michael';
+var name = 'Michael is c00l';
 
 for (i=0; i<10; i++) {
 	console.log(i);
